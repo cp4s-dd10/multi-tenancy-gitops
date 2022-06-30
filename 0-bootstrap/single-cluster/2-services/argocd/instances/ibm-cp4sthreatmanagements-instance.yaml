@@ -30,7 +30,7 @@ spec:
       - name: spec.basicDeploymentConfiguration.domain
         value: dd10.cloudpaksecurity.com
       - name: spec.basicDeploymentConfiguration.adminUser
-        value: dgdruker@us.ibm.com
+        value: cp4sadmin
       - name: spec.basicDeploymentConfiguration.storageClass
         value: ibmc-block-gold
       - name: spec.extendedDeploymentConfiguration.airgapInstall
